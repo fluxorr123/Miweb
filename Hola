@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Hola, báñate</title>
+  <style>
+    body {
+      background-color: white;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-size: 3rem;
+      font-family: sans-serif;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  Hola, báñate
+</body>
+</html>
